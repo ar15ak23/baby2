@@ -25,10 +25,10 @@ window.addEventListener('DOMContentLoaded', function(){
         
         let chair;
       //  BABYLON.SceneLoader.ImportMesh(
-        // https://www.dropbox.com/s/d9pvhd6dzc15dvs/wwwl.glb?dl=0
+        // https://www.dropbox.com/s/o7fgnlapeja9sgr/wwwl.glb?dl=0
         //   "./table.glb",
          //   scene,
-        BABYLON.SceneLoader.ImportMesh("", "https://dl.dropbox.com/s/d9pvhd6dzc15dvs/", "wwwl.glb", scene,
+        BABYLON.SceneLoader.ImportMesh("", "https://dl.dropbox.com/s/o7fgnlapeja9sgr/", "wwwl.glb", scene,
             function (mesh) { 
             
          
